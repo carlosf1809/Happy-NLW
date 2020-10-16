@@ -1,6 +1,6 @@
 # Happy-NLW
 
-Projeto para divulgação de orfanatos de sua cidade em desenvolvimento. 
+Projeto para divulgação de orfanatos de sua cidade. 
 Com foco em ajudar crianças órfãos que estão em situação de abandono pelos familiares.
 🚀🚀🚀
 
